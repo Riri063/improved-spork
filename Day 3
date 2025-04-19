@@ -1,0 +1,69 @@
+What is control flow?  
+Control flow is the order in which individual statements,  
+instructions or function calls of an imperative program are executed or evaluated.  
+
+Control flow determines how your program’s code executes from start to finish  
+– it’s like a roadmap that tells the computer  
+which path to take through your code. 
+
+
+
+
+
+
+Examples of control flow statements are:  
+1. Conditional Statements  
+2. Loops  
+3. Function calls  
+4. Exception Handling  
+
+Conditional Statements  
+Conditional statements are used to make decisions in code.  
+They allow the program to evaluate whether a condition is true or false.  
+Then run the appropriateblock of code based on the result.
+The master mind behind conditional statements is the if statement and also the key to execution of conditional statements is the boolean data type
+
+it is also important to take note and understand indentation in python
+indentation is a way of telling python that a block of code belongs together.
+indentation is done using spaces or tabd usually after a colen (:) on a new line.
+
+Here is a list of comparison operators in python
+== equal to
+!= Not equal to
+> greater than
+< less than
+>= greayer than or equal to
+<= less than or equal to
+
+
+# Logical Operators in Python:
+and  - Returns True if both conditions are True.
+or   - Returns True if at least one condition is True.
+not  - Reverses the logical state (True becomes False and vice versa).
+
+# Arithmetic Operators in Python:
++   Addition
+-   Subtraction
+*   Multiplication
+/   Division (returns float)
+//  Floor division (returns integer)
+%   Modulus (returns remainder)
+**  Exponentiation (power)
+
+USER INPUT
+input() is a builtin function in python that
+allows you to take input from the user
+input () always returns a string
+you can cast the input to a different data type
+by using the appropriate data type information
+int() , float() , str() , bool()
+
+A function is a piece of reusable code
+
+
+
+
+
+Parameters are the variables listed inside the parentheses in the function definition.
+
+Arguments are the values passed to the function when it is called.
