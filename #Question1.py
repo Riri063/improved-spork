@@ -41,6 +41,14 @@ elif num2 >= num1 and num2 >= num3:
     print(f"{num2} is the greatest.")
 else:
     print(f"{num3} is the greatest.")
+    
+    
+    
+    
+    
+    
+    
+    
 
 divisibility = int(input("Enter a number: "))
 if divisibility % 5 == 0 and divisibility % 11 == 0:
